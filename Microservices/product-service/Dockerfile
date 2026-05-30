@@ -4,6 +4,7 @@ WORKDIR /app
 COPY package*.json ./
 
 COPY . .
+RUN npm install
 
 ENV PORT=3001
 EXPOSE 3001
