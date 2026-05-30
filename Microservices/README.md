@@ -1,6 +1,5 @@
+Skill Test 1: Cloud and Containers
 
-**Skill Test 1: Cloud and Containers
-**
 
 **Test Name** - Cloud and Containers
 **Created by** - Saleem Shaikh
@@ -9,16 +8,16 @@
 **Skill Test Github Link** - https://github.com/saleeminfodevops/Microservices-Task.git
 
 
-**Installed Docker and created network:
-**
+Installed Docker and created network:
+
 docker network create ms-net
 
-**Forked the repo to my github
-**
+Forked the repo to my github
+
 https://github.com/saleeminfodevops/Microservices-Task.git
 
-**Created Dockerfile in each application folder:
-**
+Created Dockerfile in each application folder:
+
 User-service/Dockerfile
 Product-service/Dockerfile
 Order-service/Dockerfile
